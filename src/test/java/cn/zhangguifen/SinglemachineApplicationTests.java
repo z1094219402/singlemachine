@@ -88,7 +88,12 @@ public class SinglemachineApplicationTests {
 	}
 
     /**
+     * 排序算法测试
+     *
      * 冒泡排序
+     *
+     * @author yang
+     * @date 2020-9-17
      */
 	@Test
     public void maopao(){
@@ -150,6 +155,14 @@ public class SinglemachineApplicationTests {
         log.info(builder.toString());
     }
 
+    /**
+     * 排序算法测试
+     *
+     * 插入排序
+     *
+     * @author yang
+     * @Date 2020-9-17
+     */
     @Test
     public void charu() {
         //6,1,3,4,12,67,2,5,9,7
