@@ -116,6 +116,12 @@ public class SinglemachineApplicationTests {
         log.info(builder.toString());
     }
 
+    /**
+     * new！！
+     * 测试git新分支
+     * 选择排序
+     * @author yang 2020-9-17
+     */
     @Test
     public void xuanze(){
         //6,1,3,4,12,67,2,5,9,7
